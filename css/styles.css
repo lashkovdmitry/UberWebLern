@@ -4,8 +4,11 @@
 
 header {
     position: relative;
+    height: 54px;
 }
 nav {
+    position: fixed;
+    width: 100%;
     height: 54px;
     background: #212121;
 }
